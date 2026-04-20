@@ -1,0 +1,6 @@
+jjanacek@jjanacek-mac ~ % aws sts get-caller-identity                                                 
+{
+    "UserId": "AIDA4D5B4QF3QH3NVZY2D",
+    "Account": "833026294135",
+    "Arn": "arn:aws:iam::833026294135:user/jjanacek"
+}
